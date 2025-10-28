@@ -144,6 +144,7 @@ Each phase comes with its own deliverables, scripts, and outputs—detailed belo
 
 All scripts attached in Colab Notebook
 
+
 ---
 
 ## References 
@@ -152,3 +153,6 @@ All scripts attached in Colab Notebook
 - Project Gutenberg (English & Telugu texts)
 - Indic NLP Datasets and Wikipedia dumps
 - AI tools for Data collection and Few scripts
+## USE BELOW FOR PERFECT OUTPUT
+BASE_MODEL = "/content/drive/MyDrive/Corpus/DeepSeek-Merged"  # Original merged model
+PEFT_MODEL = "/content/drive/MyDrive/Corpus/DeepSeek-Finetuned-Reasoning"  # Fine-tuned adapter
