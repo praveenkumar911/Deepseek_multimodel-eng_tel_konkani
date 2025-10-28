@@ -127,16 +127,12 @@ Each phase comes with its own deliverables, scripts, and outputs—detailed belo
 
 ### 5.3 Results
 - **Task 1 & Task 2:**
-  - **English:** [Results to be updated]
-  - **Telugu:** [Results to be updated]
-  - **Konkani:** [Results to be updated]
+  - **English:** 100%
+  - **Telugu:** 100% for Task1 & 62% for Task2
+  - **Konkani:** 100% for Task1 & 43% for Task2
 
 **Summary:**
 - For some tasks, the model’s predictions for Telugu and Konkani deviated from gold-standard answers, showing variability and occasional random outputs instead of consistent reasoning
-
-**Deliverables:**
-- Fine-tuned model checkpoints
-- Fine-tuning scripts and training logs
 
 **Observations:**
 - Balanced token distribution improved multilingual coverage
@@ -145,13 +141,6 @@ Each phase comes with its own deliverables, scripts, and outputs—detailed belo
 - Fine-tuning significantly improved reasoning performance, especially in English and Telugu
 
 ---
-
-## 7. Final Deliverables 
-- **Phase 1:** Preprocessed corpus + scripts + token statistics
-- **Phase 2:** Tokenizer model + vocab + coverage analysis
-- **Phase 3:** Pretrained checkpoints + training logs
-- **Phase 4:** Fine-tuned models + scripts
-- **Phase 5:** Evaluation report with metrics, error analysis, and observations
 
 All scripts attached in Colab Notebook
 
